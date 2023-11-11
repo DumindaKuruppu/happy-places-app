@@ -89,6 +89,8 @@
                 <androidx.appcompat.widget.AppCompatEditText
                     android:id="@+id/et_date"
                     android:layout_width="match_parent"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
                     android:layout_height="wrap_content"
                     android:hint="@string/date"
                     android:inputType="textCapWords"
