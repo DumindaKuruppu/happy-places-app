@@ -2,7 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="midnightB_blue">#194d76</color>
-    <color name="dodger_blue">#2c85fd</color>
-    <color name="alice_blue">#ddeaff</color>
+    <color name="colorPrimary">#194d76</color>
+    <color name="colorPrimaryDark">#081E3C</color>
+    <color name="colorAccent">#2763C3</color>
+
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#9AA2AF</color>
+    <color name="button_background_color">#63ace5</color>
 </resources>
